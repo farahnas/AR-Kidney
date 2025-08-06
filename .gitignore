@@ -1,0 +1,23 @@
+# Ignore build and binary files
+*.exe
+*.dll
+*.obj
+*.pyc
+*.pdb
+
+# Ignore Unity / AR project temp folders
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/
+.vscode/
+*.apk
+*.ipa
+
+# Ignore other large folders
+node_modules/
+.vs/
+Logs/
