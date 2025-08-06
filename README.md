@@ -85,9 +85,13 @@ Assets/
 ## 🖼️ Screenshots
 
 ### 📱 In-App Screenshot
+### 🏠 Home Screen  
 ![AR first screen](./screenshots/home.jpg)
+### 🔘 3D Button Pressed
 ![3D button pressed](./screenshots/3D_button_pressed.jpg)
+### 🧭 Tutorial Button Pressed
 ![Tutorial button pressed](./screenshots/tutorial_pressed.jpg)
+### 🎥 Video Playback
 ![Video play.jpg](./screenshots/video_play.jpg)
 
 ---
